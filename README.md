@@ -2,7 +2,7 @@
 
 DOCKER HUB URL: https://hub.docker.com/r/dockersohna/my-repo/tags
 
-GITHUB URL:
+GITHUB URL: https://github.com/manishsohna/NAGP_K8
 
 API SERVICE URL: http://34.132.235.138/
 
